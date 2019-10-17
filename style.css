@@ -1,0 +1,10 @@
+#gameScreen{
+  border:10px solid grey;
+
+  margin: 8px 300px
+}
+.heading{
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Satisfy', cursive;
+}
